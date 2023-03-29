@@ -12,3 +12,4 @@ ayewaooo
 mapemi
 iyawo
 ao
+.net applications
