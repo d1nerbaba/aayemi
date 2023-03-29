@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1680031967,,"wq!"
+|2,0,1680056756,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,76 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/.gitconfig
-|4,48,6,0,1680031967,"~/.gitconfig"
-'1  5  4  ~/paypal/sermgt.java
-|4,49,5,4,1680031338,"~/paypal/sermgt.java"
-'2  3  4  ~/paypal/sermgt.java
-|4,50,3,4,1680031108,"~/paypal/sermgt.java"
-'3  3  4  ~/paypal/sermgt.java
-|4,51,3,4,1680031108,"~/paypal/sermgt.java"
+'0  8  10  ~/usermgt.java
+|4,48,8,10,1680056756,"~/usermgt.java"
+'1  4  6  ~/usermgt.java
+|4,49,4,6,1680055802,"~/usermgt.java"
+'2  4  6  ~/usermgt.java
+|4,50,4,6,1680055802,"~/usermgt.java"
+'3  6  0  ~/.gitconfig
+|4,51,6,0,1680031967,"~/.gitconfig"
+'4  5  4  ~/paypal/sermgt.java
+|4,52,5,4,1680031338,"~/paypal/sermgt.java"
+'5  3  4  ~/paypal/sermgt.java
+|4,53,3,4,1680031108,"~/paypal/sermgt.java"
+'6  3  4  ~/paypal/sermgt.java
+|4,54,3,4,1680031108,"~/paypal/sermgt.java"
 
 # Jumplist (newest first):
+-'  8  10  ~/usermgt.java
+|4,39,8,10,1680056756,"~/usermgt.java"
+-'  4  6  ~/usermgt.java
+|4,39,4,6,1680056727,"~/usermgt.java"
+-'  4  6  ~/usermgt.java
+|4,39,4,6,1680055802,"~/usermgt.java"
+-'  1  0  ~/usermgt.java
+|4,39,1,0,1680055780,"~/usermgt.java"
+-'  1  0  ~/usermgt.java
+|4,39,1,0,1680055780,"~/usermgt.java"
 -'  6  0  ~/.gitconfig
 |4,39,6,0,1680031967,"~/.gitconfig"
+-'  6  0  ~/.gitconfig
+|4,39,6,0,1680031967,"~/.gitconfig"
+-'  6  0  ~/.gitconfig
+|4,39,6,0,1680031967,"~/.gitconfig"
+-'  6  0  ~/.gitconfig
+|4,39,6,0,1680031967,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1680031874,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1680031874,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1680031874,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1680031874,"~/.gitconfig"
 -'  5  4  ~/paypal/sermgt.java
 |4,39,5,4,1680031338,"~/paypal/sermgt.java"
 -'  5  4  ~/paypal/sermgt.java
 |4,39,5,4,1680031338,"~/paypal/sermgt.java"
+-'  5  4  ~/paypal/sermgt.java
+|4,39,5,4,1680031338,"~/paypal/sermgt.java"
+-'  5  4  ~/paypal/sermgt.java
+|4,39,5,4,1680031338,"~/paypal/sermgt.java"
+-'  5  4  ~/paypal/sermgt.java
+|4,39,5,4,1680031338,"~/paypal/sermgt.java"
+-'  5  4  ~/paypal/sermgt.java
+|4,39,5,4,1680031338,"~/paypal/sermgt.java"
+-'  5  4  ~/paypal/sermgt.java
+|4,39,5,4,1680031338,"~/paypal/sermgt.java"
+-'  5  4  ~/paypal/sermgt.java
+|4,39,5,4,1680031338,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031317,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031317,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031317,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031317,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031317,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031317,"~/paypal/sermgt.java"
 -'  3  4  ~/paypal/sermgt.java
 |4,39,3,4,1680031317,"~/paypal/sermgt.java"
 -'  3  4  ~/paypal/sermgt.java
@@ -51,6 +103,42 @@
 |4,39,3,4,1680031108,"~/paypal/sermgt.java"
 -'  3  4  ~/paypal/sermgt.java
 |4,39,3,4,1680031108,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031108,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031108,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031108,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031108,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031108,"~/paypal/sermgt.java"
+-'  3  4  ~/paypal/sermgt.java
+|4,39,3,4,1680031108,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
+-'  1  0  ~/paypal/sermgt.java
+|4,39,1,0,1680031052,"~/paypal/sermgt.java"
 -'  1  0  ~/paypal/sermgt.java
 |4,39,1,0,1680031052,"~/paypal/sermgt.java"
 -'  1  0  ~/paypal/sermgt.java
@@ -61,6 +149,14 @@
 |4,39,1,0,1680031052,"~/paypal/sermgt.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/usermgt.java
+	*	1680056751	0
+	"	8	10
+	^	8	11
+	.	8	10
+	+	4	6
+	+	8	10
 
 > ~/.gitconfig
 	*	1680031962	0
