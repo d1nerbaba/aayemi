@@ -1,4 +1,8 @@
 dayo
 kunle
 tomi 
-adedayo
+adeday
+wale
+romke
+kimaaye
+iyaanuoluwao
