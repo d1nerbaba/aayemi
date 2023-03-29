@@ -5,4 +5,10 @@ adeday
 wale
 romke
 kimaaye
-iyaanuoluwao
+iyaanuoluw
+oluwami
+moferanre
+ayewaooo
+mapemi
+iyawo
+ao
